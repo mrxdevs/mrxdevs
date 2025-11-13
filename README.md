@@ -2,8 +2,9 @@
 
 <!-- Small centered GIF -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-pxnct&psig=AOvVaw0ixdm6iKwocM0OCF5x6PGU&ust=1763102565196000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjzx4_D7pADFQAAAAAdAAAAABAL$0" width="220" />
+  <img src="./mrx.gif" width="220" />
 </p>
+
 <h1 align="center">MrX</h1>
 
 <h1 align="center">Undefined. Unbounded. Unstoppable.</h1>
@@ -12,7 +13,7 @@
 
 <!-- Banner or GIF (optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=550&lines=MRX+—+The+One+Who+Remains+Undefined;Adaptive.+Anonymous.+Always+Evolving.;Mobile+Developer+%7C+Flutter+%7C+Kotlin+%7C+Swift;Building+Experiences+Not+Just+Apps." />
+  <img src="https://latest.sundayguardianlive.com/wp-content/uploads/2024/08/the-mystery-man.jpg" width="220" />
 </p>
 
 ---
